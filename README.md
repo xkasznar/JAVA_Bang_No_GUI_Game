@@ -1,1 +1,1 @@
-Download newest Java and run in newest Apache NetBeans.
+Download Java 11 and run in newest Apache NetBeans.
