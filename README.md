@@ -1,3 +1,3 @@
-<img width="1314" height="324" alt="{4178E265-0EA6-4DF9-9747-94D125460ADB}" src="https://github.com/user-attachments/assets/27f77b95-e19b-4d39-8010-62346431a3d6" />
+<img width="813" height="307" alt="{678F2A3C-2997-4F0A-8984-4B91443D68C8}" src="https://github.com/user-attachments/assets/f23af0f5-5180-4ab8-b85a-c6c15a0bd0a0" />
 
 Download Java 11 and run in newest Apache NetBeans. Make sure to run ONLY, ONLY and ONLY with Java 11.
