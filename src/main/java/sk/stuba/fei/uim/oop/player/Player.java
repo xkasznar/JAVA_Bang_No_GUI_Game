@@ -35,7 +35,7 @@ public class Player {
     }
 
     public void printStatus(boolean viewedByFriendly, int isDebugMode) {
-        String sep = viewedByFriendly ? "█".repeat(115) : "░".repeat(115);
+        String sep = viewedByFriendly ? "#".repeat(115) : "+".repeat(115);
         System.out.println(sep);
         String hpOrDeath = isAlive() ? (lives + " HP") : "DEAD";
 
